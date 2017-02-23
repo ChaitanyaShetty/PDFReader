@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>M13PDFKit-M13PDFKitResources.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>M13PDFKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PODProject.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TTOpenInAppActivity.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1DF847D6A74A9D824184913DE521C693</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27BBB1F1B5B2EAC2613E0C24EEAD5F42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3109C37A62F5F4627B8CCC2A366B4164</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>437F95E187F6E93D376CA6D96FAB9E26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
